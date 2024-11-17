@@ -35,7 +35,10 @@ To deploy this project run on your machine you will need
 
 ## Running using vscode
 
+### All these commands are to be run in powershell terminal of vscode.
+
 #### This will generate a exe file called "shooting_game".
+
 
 ```powershell in vscode
   g++ main.cpp -o shooting_game -lraylib -lopengl32 -lgdi32 -lwinmm
@@ -49,7 +52,7 @@ To deploy this project run on your machine you will need
 
 
 
-### Thank you for reading and taking interest in my project
+### Thank you for reading and taking interest in my project.
 
 
 
