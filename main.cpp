@@ -74,7 +74,7 @@ int main() {
 
 
         BeginDrawing();
-        ClearBackground(Color{ 85, 107, 47, 255 }); 
+        ClearBackground(BLACK); 
 
         for (const auto& target : targets) {
             DrawCircleV(target.position, target.radius, RED);
